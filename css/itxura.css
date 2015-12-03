@@ -1,3 +1,16 @@
+.reveal .controls .navigate-up, .reveal .controls .navigate-up.enabled {
+    border-bottom-color: #B3BA33;
+}
+.reveal .controls .navigate-right, .reveal .controls .navigate-right.enabled {
+    border-left-color: #B3BA33;
+}
+.reveal .controls .navigate-down, .reveal .controls .navigate-down.enabled {
+    border-top-color: #B3BA33;
+}
+.reveal .controls .navigate-left, .reveal .controls .navigate-left.enabled {
+    border-right-color: #B3BA33;
+}
+
 .sarrera {
     height: 100%;
 }
