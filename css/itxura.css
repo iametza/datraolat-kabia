@@ -1,0 +1,65 @@
+body {
+  background-color: #fff;
+  color: #000;
+}
+.reveal, .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    color: #000;
+}
+
+.sarrera {
+    height: 100%;
+}
+.sarrera .iametza {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 400px;
+    background: none;
+    border: none;
+    box-shadow: none;
+}
+.sarrera .izenburua {
+    color: #B3BA33;
+    text-transform: none;
+    position: absolute;
+    top: 250px;
+}
+.sarrera .azpi-izenburua {
+    text-transform: none;
+    position: absolute;
+    top: 365px;
+}
+.sarrera .ideia-batetik-errealitatera {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    background: none;
+    border: none;
+    box-shadow: none;
+    width: 400px;
+}
+.sarrera .nork {
+    position: absolute;
+    top: 550px;
+    background: none;
+    border: none;
+    box-shadow: none;
+    font-weight: bold;
+}
+.sarrera .nork a {
+    color: #B3BA33;
+}
+.sarrera .non {
+    position: absolute;
+    top: 600px;
+    background: none;
+    border: none;
+    box-shadow: none;
+}
+.sarrera .noiz {
+    position: absolute;
+    top: 650px;
+    background: none;
+    border: none;
+    box-shadow: none;
+}
