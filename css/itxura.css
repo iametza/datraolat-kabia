@@ -55,6 +55,7 @@ body {
     background: none;
     border: none;
     box-shadow: none;
+    font-size: 32px;
 }
 .sarrera .noiz {
     position: absolute;
@@ -62,4 +63,5 @@ body {
     background: none;
     border: none;
     box-shadow: none;
+    font-size: 32px;
 }
