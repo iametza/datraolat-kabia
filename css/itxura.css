@@ -4,7 +4,11 @@
     border: none;
     box-shadow: none;
 }
-
+.reveal a:hover img {
+  background: none;
+  border-color: none;
+  box-shadow: none;
+}
 .reveal iframe {
     margin-left: auto;
     margin-right: auto;
@@ -80,4 +84,12 @@
 /******* Nondik dator ideia? *******/
 .nondik-dator-ideia .iametza-logoa {
     width: 300px;
+}
+
+/******* XKCD *******/
+.xkcd .lizentzia {
+    font-size: 24px;
+}
+.xkcd .lizentzia a {
+    color: #B3BA33;
 }
