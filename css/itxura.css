@@ -18,6 +18,9 @@ ul li {
 .reveal a {
     color: #B3BA33;
 }
+.reveal a:hover {
+    color: #B3BA33;
+}
 .reveal section img {
     background: none;
     border: none;
