@@ -93,6 +93,9 @@ ul li {
 .eztabaida table td {
     border-bottom: none;
 }
+.eztabaida a {
+    color: #0084b4;
+}
 
 /******* Nondik dator ideia? *******/
 .nondik-dator-ideia .homer-pentsatzen {
