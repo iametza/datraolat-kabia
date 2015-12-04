@@ -127,6 +127,13 @@ ul li {
     color: #B3BA33;
 }
 
+/******* Argitaratzea *******/
+.argitaratzea .logoa {
+    width: 100px;
+}
+.argitaratzea .balorazioa {
+    vertical-align: middle;
+}
 /******* AIZU! *******/
 .aizu-zaldieroa {
     height: 600px;
