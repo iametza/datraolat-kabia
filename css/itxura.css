@@ -1,4 +1,8 @@
 /******* Orokorrak *******/
+ul li {
+    list-style-type: none;
+}
+
 .reveal section img {
     background: none;
     border: none;
@@ -30,6 +34,10 @@
 }
 .reveal .controls .navigate-left, .reveal .controls .navigate-left.enabled {
     border-right-color: #B3BA33;
+}
+
+.datraolat {
+    color: #B3BA33;
 }
 
 /******* Sarrera *******/
@@ -81,9 +89,19 @@
     width: 200px;
 }
 
+/******* Zer da #datraolat? *******/
+.eztabaida table td {
+    border-bottom: none;
+}
+
 /******* Nondik dator ideia? *******/
-.nondik-dator-ideia .iametza-logoa {
-    width: 300px;
+.nondik-dator-ideia .homer-pentsatzen {
+    width: 400px;
+}
+.bonbila-piztu .iametza-logoa {
+    width: 75px;
+    height: 75px;
+    margin: 0px 0px -10px 0px;
 }
 
 /******* XKCD *******/
