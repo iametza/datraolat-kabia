@@ -3,6 +3,9 @@ ul li {
     list-style-type: none;
 }
 
+.reveal a {
+    color: #B3BA33;
+}
 .reveal section img {
     background: none;
     border: none;
@@ -92,9 +95,6 @@ ul li {
 /******* Zer da #datraolat? *******/
 .eztabaida table td {
     border-bottom: none;
-}
-.eztabaida a {
-    color: #0084b4;
 }
 
 /******* Nondik dator ideia? *******/
