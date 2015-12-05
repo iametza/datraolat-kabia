@@ -15,6 +15,7 @@ http://www.iametza.eus/euskara/bloga/datraolatekin-traolak-eta-erabiltzaile-izen
 ##Aurkezpen hau reveal.js erabiliz sortu dugu
 
 reveal.js MIT lizentzia duen software librea da.
+
 http://lab.hakim.se/reveal-js
 
 https://github.com/hakimel/reveal.js
