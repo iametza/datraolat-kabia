@@ -4,6 +4,10 @@ Aurkezpena ikusi nahi baduzu egin klik esteka honetan:
 
 http://iametza.github.io/datraolat-kabia
 
+![alt Aurkezpena hasi aurretik](img/kabia-durango-datraolat.jpeg)
+
+![alt Aurkezpena](img/kabia-durango-datraolat-2.jpeg)
+
 ## #Datraolat
 
 Twitterren (eta beste webguneetan) traola eta erabiltzaile-izenak modu naturalago batean deklinatzeko aukera ematen dien Firefox, Chrome eta Safari nabigatzaileetarako gehigarria da.
