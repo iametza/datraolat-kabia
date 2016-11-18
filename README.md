@@ -4,6 +4,10 @@ Aurkezpena ikusi nahi baduzu egin klik esteka honetan:
 
 http://iametza.github.io/datraolat-kabia
 
+Nahiago izanez gero PDFan ere eskuratu dezakezu:
+
+https://github.com/iametza/datraolat-kabia/raw/gh-pages/datraolat-kabia-2015.pdf
+
 ![alt Aurkezpena hasi aurretik](img/kabia-durango-datraolat.jpeg)
 
 ![alt Aurkezpena](img/kabia-durango-datraolat-2.jpeg)
